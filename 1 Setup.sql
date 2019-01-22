@@ -32,7 +32,7 @@ create table SalesOrders (OrdNum Number(5), Status Varchar2(10), OrdDate DATE, C
 
 create table Counter (MAXNUM number(5));
 
-insert into Customers values ('1', 'Allen', 'Jonathan', '12345 Melody Lane', 'Garden Grove', 'CA', '92840', '7145326912');
+insert into Customers values ('1', 'Allen', 'Jonathan', '16712 Melody Lane', 'Garden Grove', 'CA', '92840', '7145326912');
 insert into Customers values ('2', 'Thompson', 'Nathan', '34123 Test Lane', 'Garden Grove', 'CA', '92841', '7142120943');
 insert into Customers values ('3', 'Clark', 'Steve', '10023 Jolene Ave', 'Anaheim', 'CA', '92801', '7140638734');
 
