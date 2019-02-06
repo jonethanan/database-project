@@ -1,0 +1,8 @@
+
+***** Sales report *****
+
+Product ID Product Description            Month   No. of Orders Total Units Total                                                                                                                                                                                                                           
+---------- ------------------------------ ------- ------------- ----------- -----------                                                                                                                                                                                                                     
+       101 Pen                            12-2017             1          30      $45.00                                                                                                                                                                                                                     
+       102 Pencil                         12-2017             1          40      $40.00                                                                                                                                                                                                                     
+       103 Mechanical Pencil              12-2017             2          80     $160.00                                                                                                                                                                                                                     

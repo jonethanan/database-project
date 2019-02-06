@@ -1,0 +1,15 @@
+
+** Aging Report **
+
+
+Today's Date                                                                                                                                                                                                                                                                                                
+-----------------------------                                                                                                                                                                                                                                                                               
+December  12, 2017, Tuesday                                                                                                                                                                                                                                                                                 
+
+
+Please enter number of days to query: 5
+
+Order Number Product Description            Order Date Status     Product ID Quant Price  Total        Days Open                                                                                                                                                                                            
+------------ ------------------------------ ---------- ---------- ---------- ----- ------ ----------- ----------                                                                                                                                                                                            
+       10002 Mechanical Pencil              12/02/2017 OPEN              103 30    2.00        $60.00         10                                                                                                                                                                                            
+       10003 Mechanical Pencil              12/03/2017 OPEN              103 50    2.00       $100.00          9                                                                                                                                                                                            

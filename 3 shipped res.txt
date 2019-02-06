@@ -1,0 +1,53 @@
+
+***** UPDATE SHIPPING *****
+
+Please enter the Order Number: 10000
+
+Order Number: 10000                                                                                                                                                                                                                                                                                         
+
+
+Order Date: 02-DEC-17                                                                                                                                                                                                                                                                                       
+
+Customer Number: 1                                                                                                                                                                                                                                                                                          
+
+	Allen, Jonathan                                                                                                                                                                                                                                                                                            
+
+	12345 Melody Lane                                                                                                                                                                                                                                                                                          
+
+	Garden Grove, CA 92840                                                                                                                                                                                                                                                                                     
+
+	(714) 532-6912                                                                                                                                                                                                                                                                                             
+
+
+Item Number: 102                                                                                                                                                                                                                                                                                            
+
+	Item Description: Pencil                                                                                                                                                                                                                                                                                   
+
+	Price: 1.00                                                                                                                                                                                                                                                                                                
+
+
+Quantity Ordered: 40                                                                                                                                                                                                                                                                                        
+
+Amount Ordered: 40                                                                                                                                                                                                                                                                                          
+
+
+Shipping Warehouse: w2                                                                                                                                                                                                                                                                                      
+
+	83210 Montana Dr                                                                                                                                                                                                                                                                                           
+
+	Tucson, AZ 85641                                                                                                                                                                                                                                                                                           
+
+	(763) 847-0192                                                                                                                                                                                                                                                                                             
+
+Please enter the shipping date (mm/dd/yyyy): 12/12/2017
+Please enter the shipping quantity: 40
+
+***************
+Order is now ----> Shipped
+
+Date Shipped: 12-DEC-17                                                                                                                                                                                                                                                                                     
+
+Quantity Shipped: 40                                                                                                                                                                                                                                                                                        
+
+Amount Shipped: 40                                                                                                                                                                                                                                                                                          
+
